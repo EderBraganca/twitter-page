@@ -1,0 +1,50 @@
+#menu{
+    border: 1px solid;
+    border-top: none;
+    border-color: black #A0A0A0 #A0A0A0 #A0A0A0;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: system-ui;
+    position: fixed;
+    top: 0;
+    left: 32%;
+    right: 36%;
+    height: 40px;
+}
+
+.menuItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+nav div:hover{
+    background: #101010;
+    font-weight: bold;
+}
+
+#paraVoce{
+    width: 45%;
+}
+
+#seguindo{
+    width: 45%;
+}
+
+#menuItemIcon{
+    background-image: url('../../images/engrenagem.png');
+    background-repeat: no-repeat;   
+    background-size: 40%;
+    background-position: center;
+    border-radius: 50%;
+    width: 8%;
+}
+
+#menuItemIcon:hover{
+    background: #101010;
+    background-image: url('../../images/engrenagem.png');
+    background-repeat: no-repeat; 
+    background-size: 40%;
+    background-position: center;
+}
