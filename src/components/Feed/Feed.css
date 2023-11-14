@@ -1,8 +1,10 @@
 #feed{
-    width: 30%;
+    margin-left: 32%;
+    margin-right: 36%;
+    margin-top: 2.5%;
     color: white;
 }
 .posts{
     border: 1px solid;
-    border-color: #101010;
+    border-color: #A0A0A0;
 }
