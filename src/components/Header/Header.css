@@ -1,7 +1,7 @@
 #menu{
     border: 1px solid;
     border-top: none;
-    border-color: black #A0A0A0 #A0A0A0 #A0A0A0;
+    border-color: black rgb(47,51,54) rgb(47,51,54) rgb(47,51,54);
     display: flex;
     justify-content: center;
     color: white;
